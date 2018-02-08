@@ -64,8 +64,6 @@ if(answer5 === 'yes' || answer5 === 'y') {
     alert('Sorry, you did not enter a valid answer.');
 }
 
-
-
 alert('Try to guess how old I am. You have four tries total to guess it correctly.');
 
 for(var guesses = 4; guesses > 0; guesses--) {
@@ -90,7 +88,6 @@ for(var guesses = 4; guesses > 0; guesses--) {
         } 
     }
 }
-
 
 alert('Guess one of the states I\'ve visited outside of Washinton, reply with state name or abbreviation (ex. Washington or WA).');
 //Contains State names
