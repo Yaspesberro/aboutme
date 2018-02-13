@@ -1,4 +1,5 @@
 'use strict';
+/*
 var correctAnswers = 0; //Out of 7 possible
 
 var userName = prompt('Hi, what is your name?');
@@ -126,8 +127,10 @@ function question7() {
       }
     }
   }
+  alert('States I\'ve visited: California, Oregon, Hawaii, Alaska, Idaho, Nevada and Minnesota');
 }
 question7();
 
 //Shows how many questions got answered correctly 
 alert('You managed to get ' + correctAnswers + '/7 questions right.');
+*/
